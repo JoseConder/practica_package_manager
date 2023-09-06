@@ -24,10 +24,11 @@ Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
   
 #Construido con:
 
-  nodejs
-  npm
+    nodejs
+    npm
 
 #Creditos
 
   José Eduardo Conde Hernández 299506 Facultad de Ingeniería de la Universidad Autonoma de Chihuahua
+  
   Materia de Web Platforms a cargo del Ing. Luis Antonio Ramirez Martinez
