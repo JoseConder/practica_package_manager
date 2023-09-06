@@ -1,5 +1,6 @@
 ## practica_package_manager
 #Descripcion
+
 Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
   
   1) Cree un directorio con nombre package_manager.
@@ -13,16 +14,20 @@ Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
   5) Suba la liga de gitlab.
      
 #Requisitos de instalación
+
   Tener instalado nodejs
   Tener instalado npm
 
 #Ejecucion
+
   descaregar el repositorio y ejecutar mediante consola el archivo index.js
   
 #Construido con:
+
   nodejs
   npm
 
 #Creditos
+
   José Eduardo Conde Hernández 299506 Facultad de Ingeniería de la Universidad Autonoma de Chihuahua
   Materia de Web Platforms a cargo del Ing. Luis Antonio Ramirez Martinez
