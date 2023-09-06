@@ -11,14 +11,16 @@ Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
   4) Configure su proyecto con git correctamente.
   
   5) Suba la liga de gitlab.
+     
 #Requisitos de instalación
   Tener instalado nodejs
   Tener instalado npm
+
 #Ejecucion
   descaregar el repositorio y ejecutar mediante consola el archivo index.js
+  
 #Construido con:
   nodejs
-
   npm
 
 #Creditos
