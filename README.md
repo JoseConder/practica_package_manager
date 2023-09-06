@@ -15,8 +15,8 @@ Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
      
 #Requisitos de instalación
 
-  Tener instalado nodejs
-  Tener instalado npm
+    Tener instalado nodejs
+    Tener instalado npm
 
 #Ejecucion
 
